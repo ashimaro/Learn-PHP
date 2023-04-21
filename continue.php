@@ -9,4 +9,7 @@ while($x < 10) {
   echo "The number is: $x <br>";
   $x++;
 }
+
+// the code will print the numbers except number 4.
 ?>
+
