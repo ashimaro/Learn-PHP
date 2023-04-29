@@ -18,6 +18,7 @@ switch ($favcolor) {
   default:
     echo "You didn't choose any cars!";
 }
+//Instead of writing many if..else statements, you can use the switch statement
 ?>
  
 </body>
