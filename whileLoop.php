@@ -10,6 +10,7 @@ while($x <= 5) {
   $x++;
 } 
 echo "The loop stop when reach 5";
+//The while loop loops through a block of code as long as a specified condition is true
 ?>  
 
 </body>
