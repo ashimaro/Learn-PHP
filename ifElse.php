@@ -18,6 +18,8 @@ if ($t < "10") {
 } else {
   echo "Have a good night!";
 }
+//if (condition) {
+  // block of code to be executed if the condition is true}
 ?>
  
 </body>
